@@ -1,0 +1,21 @@
+.reading {
+  /* background-color: red; */
+  color: blue;
+  font-size: 30px;
+}
+
+img {
+    display: none !important;
+}
+
+button{
+  border: solid red;
+  border-radius: 1em;
+}
+
+input[type=text]{
+  border: solid red;
+    text-align: center;
+    border-radius: 1em;
+}
+    

@@ -1,0 +1,50 @@
+.reading {
+  /* background-color: red; */
+  color: blue;
+  font-size: 30px;
+}
+
+img {
+    display: none !important;
+}
+
+button{
+  border: solid red;
+  border-radius: 1em;
+}
+
+input[type=text]{
+  border: solid red;
+    text-align: center;
+    border-radius: 1em;
+}
+
+.script{
+  font-weight: 200;
+}
+
+.script-result{
+  position: relative;
+  width: 100%;
+  border: solid blue;
+  padding: 1em;
+  border-radius: 2em;
+  margin-bottom: 1em;
+}
+
+.result{
+  font-weight: 200;
+  color: blue;
+}
+
+.number{
+  color: grey;
+  position:absolute;
+  /* right: 2em; */
+  left: -1em;
+  top: -1em;
+  font-size: 0.5em;
+  /* border: solid 1px; */
+  padding: 0.5em;
+  border-radius: 1em;
+}
