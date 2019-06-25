@@ -1,3 +1,12 @@
+- Modified from https://github.com/react-boilerplate/react-boilerplate
+  - Adding bootstrap
+  - I used for quickly create offline page for present:
+    - **Speech Recognition Results** with text-diff decoration (/speech-to-text-results)
+    - **Speech Recorder using** (recorder)
+      - react-mic (react+HTML5 MediaRecorder API)
+      - FileSaver
+
+
 <img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
 
 <br />

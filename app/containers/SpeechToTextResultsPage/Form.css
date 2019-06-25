@@ -48,3 +48,20 @@ input[type=text]{
   padding: 0.5em;
   border-radius: 1em;
 }
+
+.correct{
+  background-color: #99e999;
+}
+
+.more{
+  background-color: #e99999;
+}
+
+.less{
+  background-color: #9999e9;
+}
+
+.summary span{
+  display: inline-block;
+  padding-right: 1em;
+}
